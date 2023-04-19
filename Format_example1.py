@@ -1,6 +1,6 @@
 # Test Program
 # Format output - example 1
-# Trivial - What is need to print a variable within an output string?
+# Trivial - What is needed to print a variable within an output string?
 
 # To get the input
 number = input('Enter a number: ')
