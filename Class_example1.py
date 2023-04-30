@@ -1,4 +1,4 @@
-# Test Program - Class with constructor - example 1
+# Test Program - Class with constructor
 # Trivial - What is one of the uses of a constructor?
 
 # Class 1
